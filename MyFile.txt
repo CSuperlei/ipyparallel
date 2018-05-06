@@ -3,4 +3,7 @@ abcdef
 123
 123
 123
+<<<<<<< HEAD
 456
+=======
+>>>>>>> b12affe31fe77f2e6f7adf6a73c58dd66d1c2c61
