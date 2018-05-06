@@ -1,10 +1,2 @@
 abcdef
-<<<<<<< HEAD
-ab
-啊
-123
-345
-456
-=======
-123456
->>>>>>> b1218fccf518b20aafcd4af961b96bcaf5db7ada
+美好
